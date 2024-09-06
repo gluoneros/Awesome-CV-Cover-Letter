@@ -1,0 +1,141 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Authors:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Lars Richter <mail@ayeks.de>
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-red}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\photo[circle,noedge,left]{profile}
+\name{Hildebrando }{Vargas}
+\position{Ingeniero de Software{\enskip\cdotp\enskip}Secur Expert}
+\address{42-8, Bangbae-ro 15-gil, Seocho-gu, Seoul, 00681, Rep. of KOREA}
+
+\mobile{(+57) 3059427297}
+\email{gluoneros@gmail.com}
+\homepage{www.gluoneros.com}
+\github{posquit0}
+\linkedin{posquit0}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra informations}
+
+\quote{``Be the change that you want to see in the world."}
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+\recipient
+  {Estimados reclutadores}
+  {\textbf{Bancolombia}.\\1600 Amphitheatre Parkway\\Mountain View, CA 94043}
+% The date on the letter, default is the date of compilation
+\letterdate{\today}
+% The title of the letter
+\lettertitle{Applicatcon  Software Engineer}
+% How the letter is opened
+\letteropening{Dear Mr./Ms./Dr. LastName,}
+% How the letter is closed
+\letterclosing{Sincerely,}
+% Any enclosures with the letter
+\letterenclosure[Attached]{Curriculum Vitae}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Claud D. Park~~~·~~~Cover Letter}
+  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+\lettersection{About Me}
+A lo largo de mi carrera, he adquirido una amplia gama de habilidades técnicas que me permiten abordar proyectos de desarrollo de software desde múltiples perspectivas. Tengo un profundo conocimiento de lenguajes de programación como JavaScript, Python y Java, lo que me permite desarrollar aplicaciones web y móviles eficientes y escalables.
+Además, cuento con experiencia en el uso de frameworks y bibliotecas como React, Angular y Vue.js para el desarrollo frontend, y Node.js y Django para el backend. Estoy familiarizado con el uso de bases de datos relacionales y NoSQL, así como con el diseño de APIs RESTful y GraphQL.
+En el ámbito de DevOps, he trabajado con herramientas como Docker, Kubernetes y AWS para automatizar procesos de despliegue y gestionar infraestructura en la nube. Además, tengo conocimientos en inteligencia artificial y machine learning, lo que me permite integrar soluciones avanzadas en los proyectos en los que participo.
+
+\lettersection{Why Google?}
+Mi enfoque de trabajo se basa en la colaboración, la innovación y la mejora continua. Creo firmemente en la importancia de trabajar en equipo, compartir conocimientos y aprender de mis colegas. Siempre busco formas de optimizar procesos, automatizar tareas y adoptar las últimas tendencias tecnológicas para ofrecer soluciones de alta calidad.
+Además, me enorgullece mi capacidad para comunicarme de manera efectiva con diferentes partes interesadas, desde clientes hasta desarrolladores y gerentes de proyecto. Puedo explicar conceptos técnicos de manera clara y concisa, y trabajar en estrecha colaboración para entender y cumplir con los requisitos del proyecto.
+
+\lettersection{Why Me?}
+Estoy convencido de que mi experiencia, habilidades y enfoque de trabajo me convierten en un candidato ideal para el puesto de desarrollador full-stack en su empresa. Tengo la motivación y la determinación necesarias para contribuir al éxito de sus proyectos y ayudar a impulsar la innovación tecnológica.
+Le agradezco la oportunidad de presentar mi candidatura y espero tener la oportunidad de discutir más a fondo cómo puedo aportar valor a su equipo. Adjunto mi currículum vitae para su revisión.
+
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}
