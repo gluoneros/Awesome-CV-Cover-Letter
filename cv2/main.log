@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.3.18)  18 MAR 2025 22:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.3.20)  27 MAR 2025 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (./developercv.cls
 Document Class: developercv 2019/01/28 Developer CV class v1.0
 (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -85,7 +85,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \c@section@level=\count270
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count271
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
@@ -988,17 +988,17 @@ er/cm-super-t1.enc}]
 
 [2] (./main.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  24211 strings out of 475002
- 467705 string characters out of 5761902
- 876728 words of memory out of 5000000
- 46807 multiletter control sequences out of 15000+600000
+ 467705 string characters out of 5762004
+ 876924 words of memory out of 5000000
+ 46811 multiletter control sequences out of 15000+600000
  670218 words of font info for 61 fonts, out of 8000000 for 9000
  107 hyphenation exceptions out of 8191
  117i,8n,121p,480b,701s stack positions out of 10000i,1000n,20000p,200000b,200000s
