@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.4.16)  16 APR 2025 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.4.16)  16 APR 2025 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**hojaDeVida3.tex
-(./hojaDeVida3.tex
+**hojaDeVida3_ES.tex
+(./hojaDeVida3_ES.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -974,8 +974,8 @@ File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '6.0.3'
-)) (./hojaDeVida3.aux)
-\openout1 = `hojaDeVida3.aux'.
+)) (./hojaDeVida3_ES.aux)
+\openout1 = `hojaDeVida3_ES.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/lmm/m/it on input line 131.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
@@ -987,8 +987,7 @@ LaTeX Font Info:    ... okay on input line 131.
 LaTeX Font Info:    Checking defaults for OMS/lmsy/m/n on input line 131.
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
 131.
-
-(/usr/share/texlive/texmf-dist/tex/latex/lm/omslmsy.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    ... okay on input line 131.
@@ -1076,9 +1075,9 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 131.
-(./hojaDeVida3.out) (./hojaDeVida3.out)
+(./hojaDeVida3_ES.out) (./hojaDeVida3_ES.out)
 \@outlinefile=\write4
-\openout4 = `hojaDeVida3.out'.
+\openout4 = `hojaDeVida3_ES.out'.
 
 \c@lstlisting=\count351
 
@@ -1125,44 +1124,34 @@ s/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/
 dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
 fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/l
 m-mathsy.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cfr-lm/t1-clm.enc}]
- (./hojaDeVida3.aux)
-
-Package rerunfilecheck Warning: File `hojaDeVida3.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `hojaDeVida3.out':
-(rerunfilecheck)             Before: A000076FD6DB5B49DE9D309DAF3F7A96;698
-(rerunfilecheck)             After:  F567364F96448FE75E671379BD1C5DC5;514.
+ (./hojaDeVida3_ES.aux)
+Package rerunfilecheck Info: File `hojaDeVida3_ES.out' has not changed.
+(rerunfilecheck)             Checksum: DDF9485AAF2F48EEBE725AB409BB296A;474.
  ) 
 Here is how much of TeX's memory you used:
- 33107 strings out of 476041
- 666978 string characters out of 5793174
+ 33105 strings out of 476041
+ 667009 string characters out of 5793174
  1881388 words of memory out of 6000000
- 52975 multiletter control sequences out of 15000+600000
+ 52974 multiletter control sequences out of 15000+600000
  547490 words of font info for 70 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 93i,11n,99p,432b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section.5} has been referenced but does not exist, 
-replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Bran
-ds-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/F
-ontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/
-lmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrb1000.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/cm-super/sfrb1095.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/cm-super/sfrb2488.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/cm-super/sfti0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-s
-uper/sfxc1200.pfb>
-Output written on hojaDeVida3.pdf (1 page, 194713 bytes).
+ 93i,11n,99p,435b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
+ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
+/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/l
+m/lmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrb1000.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/cm-super/sfrb1095.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/cm-super/sfrb2488.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/cm-super/sfti0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm
+-super/sfxc1200.pfb>
+Output written on hojaDeVida3_ES.pdf (1 page, 193510 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
