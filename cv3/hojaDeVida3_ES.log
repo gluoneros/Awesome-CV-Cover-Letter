@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.4.16)  19 APR 2025 22:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.4.16)  19 APR 2025 22:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1126,7 +1126,7 @@ fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/l
 m-mathsy.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cfr-lm/t1-clm.enc}]
  (./hojaDeVida3_ES.aux)
 Package rerunfilecheck Info: File `hojaDeVida3_ES.out' has not changed.
-(rerunfilecheck)             Checksum: 93B2DB9FDA301267AA832F81891B9128;517.
+(rerunfilecheck)             Checksum: C715F308E734C43D061348549B5E9A4E;540.
  ) 
 Here is how much of TeX's memory you used:
  33105 strings out of 476041
@@ -1148,7 +1148,7 @@ fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/cm-super/sfti0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm
 -super/sfxc1200.pfb>
-Output written on hojaDeVida3_ES.pdf (1 page, 193220 bytes).
+Output written on hojaDeVida3_ES.pdf (1 page, 193127 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream
